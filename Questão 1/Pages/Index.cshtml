@@ -1,0 +1,19 @@
+﻿@page
+@model DescontoDelegateApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<h2>Calcular Desconto</h2>
+
+<form method="post">
+    <label>Preço Original: R$</label>
+    <input type="number" name="preco" step="0.01" required />
+    <button type="submit">Aplicar Desconto</button>
+</form>
+
+@if (Model.PrecoOriginal > 0)
+{
+    <p>Preço original: R$ @Model.PrecoOriginal</p>
+    <p>Preço com 10% de desconto: R$ @Model.PrecoComDesconto</p>
+}

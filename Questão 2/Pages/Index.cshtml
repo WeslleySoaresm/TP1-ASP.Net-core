@@ -1,0 +1,26 @@
+﻿@page
+@model MultilingueApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Boas-vindas Multilíngue";
+}
+
+<h2>Boas-vindas Multilíngue</h2>
+
+<form method="post">
+    <label>Nome:</label>
+    <input type="text" asp-for="Nome" required />
+    <br />
+    <label>Idioma:</label>
+    <select asp-for="Idioma" required>
+        <option value="pt">Português</option>
+        <option value="en">English</option>
+        <option value="es">Español</option>
+    </select>
+    <br />
+    <button  type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.MensagemFinal))
+{
+    <p><strong>@Model.MensagemFinal</strong></p>
+}

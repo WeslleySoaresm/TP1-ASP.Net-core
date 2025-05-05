@@ -1,0 +1,21 @@
+﻿@page
+@model WebMonitoramentoTemperatura.Pages.IndexModel
+@{
+    ViewData["Title"] = "Monitoramento de Temperatura";
+    Layout = null;
+}
+
+<h1>Monitoramento de Temperatura</h1>
+
+<form method="post">
+    <label>Temperatura (°C):</label>
+    <input asp-for="Temperatura" type="number" step="0.1" required />
+    <button type="submit">Verificar</button>
+</form>
+
+@if (Model.Resultado != null)
+{
+    <div style="margin-top:20px; font-weight:bold; color:@(Model.Temperatura > 100 ? "red" : "green")">
+        @Model.Resultado
+    </div>
+}
