@@ -1,4 +1,4 @@
-namespace EventManagementApp.Models
+namespace _25E2_4_TP1_Console.Models
 {
     public class Event
     {

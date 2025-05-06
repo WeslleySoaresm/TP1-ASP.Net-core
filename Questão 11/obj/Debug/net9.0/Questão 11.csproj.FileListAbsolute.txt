@@ -2,7 +2,4 @@
 /Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.AssemblyInfoInputs.cache
 /Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.AssemblyInfo.cs
 /Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.csproj.CoreCompileInputs.cache
-/Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.MvcApplicationPartsAssemblyInfo.cache
-/Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.RazorAssemblyInfo.cache
-/Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.RazorAssemblyInfo.cs
 /Users/weslleysoares/TP1 ASP.Net core/Questão 11/obj/Debug/net9.0/Questão 11.sourcelink.json

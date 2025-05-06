@@ -1,37 +1,46 @@
-using EventManagementApp.Models;
+using _25E2_4_TP1_Console.Models;
+using _25E2_4_TP1_Console.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace EventManagementApp.Pages
+namespace _25E2_4_TP1_Console.Pages
 {
     public class AddEventModel : PageModel
     {
+        private readonly EventService _eventService;
+
+        // Propriedades para o bind no formulário
         [BindProperty]
-        public Event Event { get; set; }
+        public string Title { get; set; }
 
-        // Delegate Action para registrar o evento no console
-        public Action<Event> EventCreated;
+        [BindProperty]
+        public DateTime Date { get; set; }
 
-        public AddEventModel()   
+        [BindProperty]
+        public string Location { get; set; }
+
+        public AddEventModel(EventService eventService)
         {
-            // Inicializando o delegate com um método para registrar no console
-            EventCreated = RegisterEventInConsole;
+            _eventService = eventService;
         }
 
-        public void OnPost()
+        // Método que é chamado quando o formulário é submetido
+        public IActionResult OnPost()
         {
-            // Disparar o delegate sempre que um evento for criado
-            if (Event != null)
+            if (ModelState.IsValid)
             {
-                // Exibir evento no console
-                EventCreated.Invoke(Event);
+                // Cria o evento
+                _eventService.CreateEvent(Title, Date, Location);
+                return RedirectToPage("/Index"); // Redireciona para a página inicial
             }
+
+            return Page();
         }
 
-        // Método que será chamado pelo delegate
-        private void RegisterEventInConsole(Event eventDetails)
+        // Método para exibir o evento no console quando ele é criado
+        public static void RegisterEventCreation(Event newEvent)
         {
-            Console.WriteLine($"Novo evento criado: {eventDetails.Title}, Data: {eventDetails.Date}, Local: {eventDetails.Location}");
+            Console.WriteLine($"Novo evento criado: {newEvent.Title} - {newEvent.Date} - {newEvent.Location}");
         }
     }
 }

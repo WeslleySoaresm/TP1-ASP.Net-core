@@ -1,5 +1,5 @@
 @page
-@model EventManagementApp.Pages.AddEventModel
+@model _25E2_4_TP1_Console.Pages.AddEventModel
 @{
     ViewData["Title"] = "Cadastrar Evento";
 }
@@ -7,28 +7,19 @@
 <h2>@ViewData["Title"]</h2>
 
 <form method="post">
-    <div class="form-group">
-        <label for="Title">Título</label>
-        <input type="text" id="Title" name="Title" class="form-control" required />
+    <div>
+        <label for="title">Título do Evento:</label>
+        <input type="text" id="title" name="Title" required />
     </div>
-
-    <div class="form-group">
-        <label for="Date">Data</label>
-        <input type="datetime-local" id="Date" name="Date" class="form-control" required />
+    <div>
+        <label for="date">Data do Evento:</label>
+        <input type="datetime-local" id="date" name="Date" required />
     </div>
-
-    <div class="form-group">
-        <label for="Location">Local</label>
-        <input type="text" id="Location" name="Location" class="form-control" required />
+    <div>
+        <label for="location">Local do Evento:</label>
+        <input type="text" id="location" name="Location" required />
     </div>
-
-    <button type="submit" class="btn btn-primary mt-3">Cadastrar Evento</button>
+    <div>
+        <button type="submit">Cadastrar Evento</button>
+    </div>
 </form>
-
-@if (Model.Event != null)
-{
-    <h3 class="mt-5">Evento Cadastrado:</h3>
-    <p><strong>Título:</strong> @Model.Event.Title</p>
-    <p><strong>Data:</strong> @Model.Event.Date</p>
-    <p><strong>Local:</strong> @Model.Event.Location</p>
-}
