@@ -1,0 +1,22 @@
+﻿@page
+@model WebLogger.Pages.IndexModel
+@{
+    ViewData["Title"] = "Logger Robusto";
+}
+
+<h2>Logger Robusto com ?.Invoke()</h2>
+
+<form method="post">
+    <div class="form-check mb-2">
+        <input class="form-check-input" type="checkbox" asp-for="RegistrarLogs" />
+        <label class="form-check-label" asp-for="RegistrarLogs">
+            Ativar métodos de log
+        </label>
+    </div>
+    <button type="submit" class="btn btn-primary">Executar Log</button>
+</form>
+
+@if (Model.LogResultado != null)
+{
+    <pre class="mt-3">@Model.LogResultado</pre>
+}

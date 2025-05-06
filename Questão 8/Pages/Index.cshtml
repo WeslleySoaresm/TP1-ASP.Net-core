@@ -1,0 +1,16 @@
+﻿@page
+@model RazorProductApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<h2>Lista de Produtos</h2>
+
+<ul>
+    @foreach (var p in Model.Produtos)
+    {
+        <li><strong>@p.Name</strong> - R$ @p.Price</li>
+    }
+</ul>
+
+<a class="btn btn-secondary mt-3" asp-page="Contact">Ir para Contato</a>

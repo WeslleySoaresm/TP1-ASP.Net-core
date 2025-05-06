@@ -1,0 +1,16 @@
+﻿@page
+@model WebLogger.Pages.IndexModel
+@{
+    ViewData["Title"] = "Sistema de Log";
+}
+
+<h2>Sistema de Log com Delegate Multicast</h2>
+
+<form method="post">
+    <button type="submit" class="btn btn-primary">Gerar Log</button>
+</form>
+
+@if (Model.LogResultado != null)
+{
+    <pre class="mt-3">@Model.LogResultado</pre>
+}

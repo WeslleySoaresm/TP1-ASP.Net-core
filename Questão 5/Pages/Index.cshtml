@@ -1,0 +1,18 @@
+﻿@page
+@model WebDownloadNotification.Pages.IndexModel
+@{
+    ViewData["Title"] = "Simulador de Download";
+}
+
+<h2>Simulador de Download</h2>
+
+<form method="post">
+    <button type="submit" class="btn btn-primary">Iniciar Download</button>
+</form>
+
+@if (Model.Resultado != null)
+{
+    <div class="alert alert-success mt-3">
+        @Model.Resultado
+    </div>
+}

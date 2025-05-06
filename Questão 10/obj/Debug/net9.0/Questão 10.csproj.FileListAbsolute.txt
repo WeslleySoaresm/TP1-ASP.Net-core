@@ -1,0 +1,98 @@
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.AssemblyInfoInputs.cache
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.AssemblyInfo.cs
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.csproj.CoreCompileInputs.cache
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.MvcApplicationPartsAssemblyInfo.cache
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.RazorAssemblyInfo.cache
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.RazorAssemblyInfo.cs
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.sourcelink.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/appsettings.Development.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/appsettings.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10.staticwebassets.runtime.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10.staticwebassets.endpoints.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10.deps.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10.runtimeconfig.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10.dll
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/bin/Debug/net9.0/Questão 10.pdb
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/scopedcss/bundle/Questão 10.styles.css
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/scopedcss/projectbundle/Questão 10.bundle.scp.css
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/hfii4nsf5l-b9sayid5wm.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/ujwoztwidh-61n19gt1b8.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/gasyxszs1h-xtxxf3hu2r.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/x1988a69py-bqjiyaj88i.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/7xfq94r9sc-c2jlpeoesf.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/fgpstbcpra-erw9l3u2r3.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/p04t78fgh3-aexeepp0ev.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/nlxap09bac-d7shbmvgxk.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/blph3ai3q7-ausgxo2sd3.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/oa7kt9dit0-k8d9w2qqmf.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/m0fdrt166g-cosvhxvwiu.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/z3195bb6fr-ub07r2b239.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/9n3ht9nc0z-fvhpjtyr6v.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/opzkaxh8ro-b7pk76d08c.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/3ifw83lemg-fsbi9cje9m.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/33wi0dwcu4-rzd6atqjts.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/5lhd32ugun-ee0r1s7dh0.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/gjaqwmpjzz-dxx9fxp4il.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/6isc2xqk2e-jd9uben2k1.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/2ge8dzm2bs-khv3u5hwcm.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/71o3dlyrjt-r4e9w2rdcm.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/24a65s3ei7-lcd1t2u6c8.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/19x7bkujv1-c2oey78nd0.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/9v159bic25-tdbxkamptv.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/v2klkzpmkp-j5mq2jizvt.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/whj2wk8iuo-06098lyss8.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/iygki5qgsv-nvvlpmu67g.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/82nwzbqqxf-s35ty4nyc5.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/wtb0o384lk-pj5nd1wqec.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/duj7uk9mru-46ein0sx1k.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/ozbdg139oo-v0zj4ognzu.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/zms5wq7cyy-37tfw0ft22.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/7t0e5b1j1e-hrwsygsryq.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/hauvateq4w-pk9g2wxc8p.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/cxo6lvt9az-ft3s53vfgj.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/cwotc0sf84-6cfz1n2cew.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/aa40ds8vi5-6pdc2jztkx.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/mxae1bkwti-493y06b0oq.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/sj2ye7n8oy-iovd86k7lj.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/yra8n9neg8-vr1egmr9el.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/4kyct441yk-kbrnm935zg.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/7475kww239-jj8uyg4cgr.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/ykraqhanrw-y7v9cxd14o.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/mr1iqaxcjk-notf2xhcfb.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/79ey6tyti2-h1s4sie4z3.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/r1ytoovp2r-63fj8s7r0e.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/g89lbh19a9-0j3bgjxly4.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/tb1uc71e2n-47otxtyo56.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/220sdez57p-4v8eqarkd7.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/ml1iy5qbp1-356vix0kms.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/xzaqqqdvma-83jwlth58m.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/oauzjbnt1i-mrlpezrjn3.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/qd9sv2q9i7-lzl9nlhx6b.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/z9rjtseopu-ag7o75518u.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/p0jonyzs6u-x0q3zqp4vz.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/ys859n4h7i-0i3buxo5is.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/181hwbor41-o1o13a6vjx.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/jxav2pmrbx-ttgo8qnofa.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/xofob8dlpd-2z0ns9nrw6.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/1svbadv78h-muycvpuwrr.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/tt869hyue0-87fc7y1x7t.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/dvq55u39w9-mlv21k5csn.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets.build.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets.development.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets/msbuild.Questão 10.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets/msbuild.Questão 10.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets/msbuild.build.Questão 10.props
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Questão 10.props
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Questão 10.props
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.dll
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/refint/Questão 10.dll
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.pdb
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/Questão 10.genruntimeconfig.cache
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/ref/Questão 10.dll
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/scopedcss/ProductCatalog/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/sm9fm62t18-5eme8zr0r0.gz
+/Users/weslleysoares/TP1 ASP.Net core/Questão 10/obj/Debug/net9.0/compressed/nkn55h5qej-5eme8zr0r0.gz
